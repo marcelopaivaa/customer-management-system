@@ -23,7 +23,7 @@ Customer list
 Add new customer
 ![Screenshot](images/03.jpg)
 
-List only one customer and their orders
+Only one customer list and their orders
 ![Screenshot](images/04.jpg)
 
 Add new order to specific customer
