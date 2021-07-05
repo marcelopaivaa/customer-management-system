@@ -34,6 +34,7 @@ Add new order to specific customer
 - HTML5
 - CSS3
 - Bootstrap
+- Font Awesome
 - PHP
 - Mysql with relationship between "customers" and "orders" tables
 
