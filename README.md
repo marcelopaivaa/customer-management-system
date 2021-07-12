@@ -12,6 +12,15 @@ Basically created with php, it allows you to register customers and their orders
 It also allows you to list, edit and delete any entries made in the system. ( Basic CRUD ). 
 Uses MySQL database with relationship between "customers" and "orders" tables.
 
+# Technologies
+
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- PHP
+- Mysql with relationship between "customers" and "orders" tables
+
 # Layout and features
 
 Login
@@ -28,15 +37,6 @@ Only one customer list and their orders
 
 Add new order to specific customer
 ![Screenshot](images/05.jpg)
-
-# Technologies
-
-- HTML5
-- CSS3
-- Bootstrap
-- Font Awesome
-- PHP
-- Mysql with relationship between "customers" and "orders" tables
 
 # Author
 
