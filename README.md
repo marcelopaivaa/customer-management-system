@@ -3,7 +3,7 @@ Customer Management System
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marcelosurfdev/customer-management-system/blob/main/LICENSE)
 
-# About
+### About
 http://clientes.toldosmobel.com.br/
 
 Customer management web system custom-developed for the company Toldos Mobel, in the colors requested by the customer. 
@@ -12,7 +12,7 @@ Basically created with php, it allows you to register customers and their orders
 It also allows you to list, edit and delete any entries made in the system. ( Basic CRUD ). 
 Uses MySQL database with relationship between "customers" and "orders" tables.
 
-# Technologies
+### Technologies
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ Uses MySQL database with relationship between "customers" and "orders" tables.
 - PHP
 - Mysql with relationship between "customers" and "orders" tables
 
-# Layout and features
+### Layout and features
 
 Login
 ![Screenshot](images/01.jpg)
@@ -38,7 +38,7 @@ Only one customer list and their orders
 Add new order to specific customer
 ![Screenshot](images/05.jpg)
 
-# Author
+### Author
 
 - Marcelo Paiva
 
