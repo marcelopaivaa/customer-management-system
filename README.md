@@ -12,7 +12,7 @@ Basically created with php, it allows you to register customers and their orders
 It also allows you to list, edit and delete any entries made in the system. ( Basic CRUD ). 
 Uses MySQL database with relationship between "customers" and "orders" tables.
 
-# Layout
+# Layout and features
 
 Login
 ![Screenshot](images/01.jpg)
